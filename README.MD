@@ -1,4 +1,4 @@
-#Installation
+## Installation
 
 ```
 git clone https://github.com/eyeskiller/redis-php-example.git
